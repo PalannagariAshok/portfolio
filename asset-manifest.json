@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5b76d9d7.css",
+    "main.js": "/portfolio/static/js/main.8c697bc3.js",
+    "static/js/333.771c2324.chunk.js": "/portfolio/static/js/333.771c2324.chunk.js",
+    "static/media/causeway.svg": "/portfolio/static/media/causeway.36ba1bb2ffbde8ce85d3623d116dd122.svg",
+    "static/media/confluence1.svg": "/portfolio/static/media/confluence1.11fb1d0e3735bfc9f5868ff89bb71af0.svg",
+    "static/media/compost.svg": "/portfolio/static/media/compost.22e2bdb45049aa70439fad65cdb5a822.svg",
+    "static/media/react-portfolio.svg": "/portfolio/static/media/react-portfolio.b0ab2b8df3b84b9afa8950427e5d7835.svg",
+    "static/media/diquark.svg": "/portfolio/static/media/diquark.fe2719d8347bd0740102a2bcc5a6de79.svg",
+    "static/media/profile.png": "/portfolio/static/media/profile.d97afbdd90f22e508c1a.png",
+    "static/media/palannagari-ashok-resume.pdf": "/portfolio/static/media/palannagari-ashok-resume.1c162ccda74d93923082.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.5b76d9d7.css.map": "/portfolio/static/css/main.5b76d9d7.css.map",
+    "main.8c697bc3.js.map": "/portfolio/static/js/main.8c697bc3.js.map",
+    "333.771c2324.chunk.js.map": "/portfolio/static/js/333.771c2324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b76d9d7.css",
+    "static/js/main.8c697bc3.js"
+  ]
+}
